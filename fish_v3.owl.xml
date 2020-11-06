@@ -1,0 +1,1258 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/remya/ontologies/2020/9/fish"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/remya/ontologies/2020/9/fish">
+    <Prefix name="" IRI="http://www.semanticweb.org/remya/ontologies/2020/9/fish"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Acipenser_sturio"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Acipenséridés"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Anguilla_anguilla"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Anguillidés"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Biological_resource_use"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Climate_change_severe_weather"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Cottidae"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Cottus_petiti"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Cottus_rondeleti"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Critically_endangered"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Cyprinidae"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Endangered_species"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Extinct"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Extinct_in_the_wild"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Gobio_lozanoi"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Hucho_hucho"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Least_concerned"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Lota_lota"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Lotidae"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Natural_system_modification"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Near_Threatened"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Pollution"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Salmonidae"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Salvelinus_alpinus"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Vulnerable_species"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#acipenser_ruthenus"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#black"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#blue"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#brown"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#colors"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#elongate"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#endangerement"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_1"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_2"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_3"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_4"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_5"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_6"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_7"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_family"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fishable_fish"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fleuve"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#green"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#grey"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lake"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#levels"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#location"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#named_fish"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#ovoid"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#red"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#rivière"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#rose"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#sea"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#serpentiformes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#shape"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#unfishable_fish"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#water_type"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#white"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#yellow"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Agriculture_&amp;_aquaculture"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Residential_&amp;_commercial_developpement"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_attribute"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_color"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_endangered_level_of"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_shape"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#is_endangered_by"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lives_in"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lives_in_region"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lives_in_type_of_water"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_length"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_with"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Acipenser_sturio"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish"/>
+            <ObjectIntersectionOf>
+                <ObjectSomeValuesFrom>
+                    <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lives_in_type_of_water"/>
+                    <ObjectUnionOf>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#endangerement"/>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fleuve"/>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#sea"/>
+                    </ObjectUnionOf>
+                </ObjectSomeValuesFrom>
+                <ObjectAllValuesFrom>
+                    <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_color"/>
+                    <ObjectIntersectionOf>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#grey"/>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#yellow"/>
+                    </ObjectIntersectionOf>
+                </ObjectAllValuesFrom>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_length"/>
+                    <DataIntersectionOf>
+                        <DatatypeRestriction>
+                            <Datatype abbreviatedIRI="xsd:float"/>
+                            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.0</Literal>
+                            </FacetRestriction>
+                        </DatatypeRestriction>
+                        <DatatypeRestriction>
+                            <Datatype abbreviatedIRI="xsd:float"/>
+                            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">2.0</Literal>
+                            </FacetRestriction>
+                        </DatatypeRestriction>
+                    </DataIntersectionOf>
+                </DataSomeValuesFrom>
+            </ObjectIntersectionOf>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Anguilla_anguilla"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish"/>
+            <ObjectIntersectionOf>
+                <ObjectSomeValuesFrom>
+                    <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lives_in_type_of_water"/>
+                    <ObjectUnionOf>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fleuve"/>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#sea"/>
+                    </ObjectUnionOf>
+                </ObjectSomeValuesFrom>
+                <ObjectAllValuesFrom>
+                    <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_color"/>
+                    <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#grey"/>
+                </ObjectAllValuesFrom>
+                <ObjectAllValuesFrom>
+                    <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_shape"/>
+                    <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#serpentiformes"/>
+                </ObjectAllValuesFrom>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_length"/>
+                    <DataIntersectionOf>
+                        <DatatypeRestriction>
+                            <Datatype abbreviatedIRI="xsd:float"/>
+                            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.4</Literal>
+                            </FacetRestriction>
+                        </DatatypeRestriction>
+                        <DatatypeRestriction>
+                            <Datatype abbreviatedIRI="xsd:float"/>
+                            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.3</Literal>
+                            </FacetRestriction>
+                        </DatatypeRestriction>
+                    </DataIntersectionOf>
+                </DataSomeValuesFrom>
+            </ObjectIntersectionOf>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Cottus_petiti"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish"/>
+            <ObjectIntersectionOf>
+                <ObjectSomeValuesFrom>
+                    <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lives_in_type_of_water"/>
+                    <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fleuve"/>
+                </ObjectSomeValuesFrom>
+                <ObjectAllValuesFrom>
+                    <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_color"/>
+                    <ObjectIntersectionOf>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#brown"/>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#grey"/>
+                    </ObjectIntersectionOf>
+                </ObjectAllValuesFrom>
+                <ObjectAllValuesFrom>
+                    <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_shape"/>
+                    <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#ovoid"/>
+                </ObjectAllValuesFrom>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_length"/>
+                    <DataIntersectionOf>
+                        <DatatypeRestriction>
+                            <Datatype abbreviatedIRI="xsd:float"/>
+                            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.035</Literal>
+                            </FacetRestriction>
+                        </DatatypeRestriction>
+                        <DatatypeRestriction>
+                            <Datatype abbreviatedIRI="xsd:float"/>
+                            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.06</Literal>
+                            </FacetRestriction>
+                        </DatatypeRestriction>
+                    </DataIntersectionOf>
+                </DataSomeValuesFrom>
+            </ObjectIntersectionOf>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Cottus_rondeleti"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish"/>
+            <ObjectIntersectionOf>
+                <ObjectSomeValuesFrom>
+                    <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lives_in_type_of_water"/>
+                    <ObjectUnionOf>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fleuve"/>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#rivière"/>
+                    </ObjectUnionOf>
+                </ObjectSomeValuesFrom>
+                <ObjectAllValuesFrom>
+                    <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_color"/>
+                    <ObjectIntersectionOf>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#black"/>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#brown"/>
+                    </ObjectIntersectionOf>
+                </ObjectAllValuesFrom>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_length"/>
+                    <DatatypeRestriction>
+                        <Datatype abbreviatedIRI="xsd:float"/>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.08</Literal>
+                        </FacetRestriction>
+                    </DatatypeRestriction>
+                </DataSomeValuesFrom>
+            </ObjectIntersectionOf>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Gobio_lozanoi"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish"/>
+            <ObjectIntersectionOf>
+                <ObjectSomeValuesFrom>
+                    <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lives_in_type_of_water"/>
+                    <ObjectUnionOf>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lake"/>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#rivière"/>
+                    </ObjectUnionOf>
+                </ObjectSomeValuesFrom>
+                <ObjectAllValuesFrom>
+                    <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_color"/>
+                    <ObjectIntersectionOf>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#blue"/>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#grey"/>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#white"/>
+                    </ObjectIntersectionOf>
+                </ObjectAllValuesFrom>
+                <ObjectAllValuesFrom>
+                    <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_shape"/>
+                    <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#ovoid"/>
+                </ObjectAllValuesFrom>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_length"/>
+                    <DataIntersectionOf>
+                        <DatatypeRestriction>
+                            <Datatype abbreviatedIRI="xsd:float"/>
+                            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.09</Literal>
+                            </FacetRestriction>
+                        </DatatypeRestriction>
+                        <DatatypeRestriction>
+                            <Datatype abbreviatedIRI="xsd:float"/>
+                            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.12</Literal>
+                            </FacetRestriction>
+                        </DatatypeRestriction>
+                    </DataIntersectionOf>
+                </DataSomeValuesFrom>
+            </ObjectIntersectionOf>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Hucho_hucho"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish"/>
+            <ObjectIntersectionOf>
+                <ObjectSomeValuesFrom>
+                    <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lives_in_type_of_water"/>
+                    <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fleuve"/>
+                </ObjectSomeValuesFrom>
+                <ObjectAllValuesFrom>
+                    <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_color"/>
+                    <ObjectIntersectionOf>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#black"/>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#brown"/>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#red"/>
+                    </ObjectIntersectionOf>
+                </ObjectAllValuesFrom>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_length"/>
+                    <DataIntersectionOf>
+                        <DatatypeRestriction>
+                            <Datatype abbreviatedIRI="xsd:float"/>
+                            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.8</Literal>
+                            </FacetRestriction>
+                        </DatatypeRestriction>
+                        <DatatypeRestriction>
+                            <Datatype abbreviatedIRI="xsd:float"/>
+                            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.0</Literal>
+                            </FacetRestriction>
+                        </DatatypeRestriction>
+                    </DataIntersectionOf>
+                </DataSomeValuesFrom>
+            </ObjectIntersectionOf>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Lota_lota"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish"/>
+            <ObjectIntersectionOf>
+                <ObjectAllValuesFrom>
+                    <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_color"/>
+                    <ObjectIntersectionOf>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#grey"/>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#yellow"/>
+                    </ObjectIntersectionOf>
+                </ObjectAllValuesFrom>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_length"/>
+                    <DatatypeRestriction>
+                        <Datatype abbreviatedIRI="xsd:float"/>
+                        <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.5</Literal>
+                        </FacetRestriction>
+                    </DatatypeRestriction>
+                </DataSomeValuesFrom>
+            </ObjectIntersectionOf>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Salvelinus_alpinus"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish"/>
+            <ObjectIntersectionOf>
+                <ObjectSomeValuesFrom>
+                    <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lives_in_type_of_water"/>
+                    <ObjectUnionOf>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fleuve"/>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lake"/>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#rivière"/>
+                    </ObjectUnionOf>
+                </ObjectSomeValuesFrom>
+                <ObjectAllValuesFrom>
+                    <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_color"/>
+                    <ObjectUnionOf>
+                        <ObjectIntersectionOf>
+                            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#black"/>
+                            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#blue"/>
+                            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#red"/>
+                        </ObjectIntersectionOf>
+                        <ObjectIntersectionOf>
+                            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#black"/>
+                            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#grey"/>
+                        </ObjectIntersectionOf>
+                    </ObjectUnionOf>
+                </ObjectAllValuesFrom>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_length"/>
+                    <DataIntersectionOf>
+                        <DatatypeRestriction>
+                            <Datatype abbreviatedIRI="xsd:float"/>
+                            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.2</Literal>
+                            </FacetRestriction>
+                        </DatatypeRestriction>
+                        <DatatypeRestriction>
+                            <Datatype abbreviatedIRI="xsd:float"/>
+                            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.4</Literal>
+                            </FacetRestriction>
+                        </DatatypeRestriction>
+                    </DataIntersectionOf>
+                </DataSomeValuesFrom>
+            </ObjectIntersectionOf>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#acipenser_ruthenus"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish"/>
+            <ObjectIntersectionOf>
+                <ObjectSomeValuesFrom>
+                    <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lives_in_type_of_water"/>
+                    <ObjectUnionOf>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fleuve"/>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lake"/>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#rivière"/>
+                    </ObjectUnionOf>
+                </ObjectSomeValuesFrom>
+                <ObjectAllValuesFrom>
+                    <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_color"/>
+                    <ObjectIntersectionOf>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#grey"/>
+                        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#white"/>
+                    </ObjectIntersectionOf>
+                </ObjectAllValuesFrom>
+                <DataSomeValuesFrom>
+                    <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_length"/>
+                    <DataIntersectionOf>
+                        <DatatypeRestriction>
+                            <Datatype abbreviatedIRI="xsd:float"/>
+                            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.0</Literal>
+                            </FacetRestriction>
+                        </DatatypeRestriction>
+                        <DatatypeRestriction>
+                            <Datatype abbreviatedIRI="xsd:float"/>
+                            <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                                <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.25</Literal>
+                            </FacetRestriction>
+                        </DatatypeRestriction>
+                    </DataIntersectionOf>
+                </DataSomeValuesFrom>
+            </ObjectIntersectionOf>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fishable_fish"/>
+        <ObjectIntersectionOf>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_endangered_level_of"/>
+                <ObjectUnionOf>
+                    <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Least_concerned"/>
+                    <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Vulnerable_species"/>
+                </ObjectUnionOf>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#unfishable_fish"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_endangered_level_of"/>
+            <ObjectUnionOf>
+                <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Critically_endangered"/>
+                <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Endangered_species"/>
+                <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Extinct"/>
+                <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Extinct_in_the_wild"/>
+                <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Near_Threatened"/>
+            </ObjectUnionOf>
+        </ObjectAllValuesFrom>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Acipenser_sturio"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Acipenséridés"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Acipenser_sturio"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#is_endangered_by"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Biological_resource_use"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Acipenser_sturio"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#is_endangered_by"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Natural_system_modification"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Acipenser_sturio"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_endangered_level_of"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Critically_endangered"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Acipenséridés"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_family"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Acipenséridés"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_shape"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#elongate"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Anguilla_anguilla"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Anguillidés"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Anguillidés"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_family"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Anguillidés"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_shape"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#serpentiformes"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Biological_resource_use"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Climate_change_severe_weather"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Cottidae"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_family"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Cottus_petiti"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Cottidae"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Cottus_petiti"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_endangered_level_of"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Vulnerable_species"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Cottus_petiti"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#is_endangered_by"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Climate_change_severe_weather"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Cottus_petiti"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#is_endangered_by"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Natural_system_modification"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Cottus_rondeleti"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Cottidae"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Cottus_rondeleti"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_endangered_level_of"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Critically_endangered"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Cottus_rondeleti"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#is_endangered_by"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Climate_change_severe_weather"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Cottus_rondeleti"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#is_endangered_by"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Natural_system_modification"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Critically_endangered"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#levels"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Cyprinidae"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_family"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Endangered_species"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#levels"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Extinct"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#levels"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Extinct_in_the_wild"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#levels"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Gobio_lozanoi"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Cyprinidae"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Gobio_lozanoi"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_endangered_level_of"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Near_Threatened"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Gobio_lozanoi"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#is_endangered_by"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Natural_system_modification"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Hucho_hucho"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Salmonidae"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Hucho_hucho"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_endangered_level_of"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Endangered_species"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Hucho_hucho"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#is_endangered_by"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Biological_resource_use"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Hucho_hucho"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#is_endangered_by"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Natural_system_modification"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Least_concerned"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#levels"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Lota_lota"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Lotidae"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Lota_lota"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_endangered_level_of"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Vulnerable_species"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Lotidae"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_family"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Lotidae"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_shape"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#elongate"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Natural_system_modification"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Near_Threatened"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#levels"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Pollution"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Salmonidae"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_family"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Salmonidae"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_shape"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#elongate"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Salvelinus_alpinus"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Salmonidae"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Salvelinus_alpinus"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_endangered_level_of"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Vulnerable_species"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Salvelinus_alpinus"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#is_endangered_by"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Pollution"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Vulnerable_species"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#levels"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#acipenser_ruthenus"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Acipenséridés"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#acipenser_ruthenus"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_endangered_level_of"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Vulnerable_species"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#acipenser_ruthenus"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#is_endangered_by"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Biological_resource_use"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#acipenser_ruthenus"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#is_endangered_by"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Natural_system_modification"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#acipenser_ruthenus"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#is_endangered_by"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Pollution"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#black"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#colors"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#blue"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#colors"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#brown"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#colors"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#brown"/>
+        <DataHasValue>
+            <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_length"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.5</Literal>
+        </DataHasValue>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#elongate"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#shape"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_color"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#colors"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_shape"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#shape"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lives_in_type_of_water"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#water_type"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish"/>
+        <DataSomeValuesFrom>
+            <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_length"/>
+            <Datatype abbreviatedIRI="xsd:float"/>
+        </DataSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_1"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#named_fish"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_1"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lives_in_type_of_water"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lake"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_1"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_color"/>
+            <ObjectIntersectionOf>
+                <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#grey"/>
+                <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#white"/>
+            </ObjectIntersectionOf>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_1"/>
+        <DataHasValue>
+            <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_length"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.2</Literal>
+        </DataHasValue>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_2"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#named_fish"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_2"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_color"/>
+            <ObjectIntersectionOf>
+                <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#grey"/>
+                <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#yellow"/>
+            </ObjectIntersectionOf>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_2"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_shape"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#elongate"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_2"/>
+        <DataHasValue>
+            <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_length"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">1.0</Literal>
+        </DataHasValue>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_3"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#named_fish"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_4"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#named_fish"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_4"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lives_in_type_of_water"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fleuve"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_4"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_color"/>
+            <ObjectIntersectionOf>
+                <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#black"/>
+                <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#brown"/>
+                <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#red"/>
+            </ObjectIntersectionOf>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_4"/>
+        <DataHasValue>
+            <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_length"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.9</Literal>
+        </DataHasValue>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_5"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#named_fish"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_5"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lives_in_type_of_water"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fleuve"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_5"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_color"/>
+            <ObjectIntersectionOf>
+                <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#brown"/>
+                <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#grey"/>
+            </ObjectIntersectionOf>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_5"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_shape"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#ovoid"/>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_5"/>
+        <DataHasValue>
+            <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_length"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.06</Literal>
+        </DataHasValue>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_6"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#named_fish"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_6"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lives_in_type_of_water"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lake"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_6"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_color"/>
+            <ObjectIntersectionOf>
+                <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#black"/>
+                <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#blue"/>
+                <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#red"/>
+            </ObjectIntersectionOf>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_6"/>
+        <DataHasValue>
+            <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_length"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.3</Literal>
+        </DataHasValue>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_7"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#named_fish"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_7"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lives_in_type_of_water"/>
+            <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#rivière"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_7"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_color"/>
+            <ObjectIntersectionOf>
+                <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#black"/>
+                <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#brown"/>
+            </ObjectIntersectionOf>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_7"/>
+        <DataHasValue>
+            <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_length"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#float">0.07</Literal>
+        </DataHasValue>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_family"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_family"/>
+        <DataExactCardinality cardinality="1">
+            <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_length"/>
+            <Datatype abbreviatedIRI="xsd:float"/>
+        </DataExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_family"/>
+        <DataExactCardinality cardinality="1">
+            <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_with"/>
+            <Datatype abbreviatedIRI="xsd:float"/>
+        </DataExactCardinality>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fleuve"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#water_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#green"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#colors"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#grey"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#colors"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lake"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#water_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#levels"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#endangerement"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#named_fish"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#ovoid"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#shape"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#red"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#colors"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#rivière"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#water_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#rose"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#colors"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#sea"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#water_type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#serpentiformes"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#shape"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#shape"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#type"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#endangerement"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#unfishable_fish"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#water_type"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#location"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#white"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#colors"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#yellow"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#colors"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Agriculture_&amp;_aquaculture"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#type"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Residential_&amp;_commercial_developpement"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#type"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Critically_endangered"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Endangered_species"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Extinct"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Extinct_in_the_wild"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Least_concerned"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Near_Threatened"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#Vulnerable_species"/>
+    </DisjointClasses>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_color"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_attribute"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_shape"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_attribute"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lives_in_region"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lives_in"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lives_in_type_of_water"/>
+        <ObjectProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#lives_in"/>
+    </SubObjectPropertyOf>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_length"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_family"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_with"/>
+        <Class IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#fish_family"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_length"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="http://www.semanticweb.org/remya/ontologies/2020/9/untitled-ontology-14#has_with"/>
+        <Datatype abbreviatedIRI="xsd:float"/>
+    </DataPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
